@@ -1,0 +1,22 @@
+[
+  "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
+  "https://finance.yahoo.com/news/rssindex",
+  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+  "https://www.nasdaq.com/feed/rssoutbound?category=Stock%20Market%20News",
+  "https://www.benzinga.com/feed",
+  "https://www.globenewswire.com/rss/news-releases/",
+  "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+  "https://feeds.feedburner.com/stocknewsapi/allnews",
+  "https://www.thehindu.com/business/markets/feeder/default.rss",
+  "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/market.xml",
+  "https://economictimes.indiatimes.com/markets/rss.cms",
+  "https://economictimes.indiatimes.com/industry/rss.cms",
+  "https://www.moneycontrol.com/rss/latestnews.xml",
+  "https://www.business-standard.com/rss/markets-106.rss",
+  "https://www.livemint.com/rss/markets",
+  "https://www.thehindubusinessline.com/markets/?service=rss",
+  "https://feeds.content.dowjones.io/public/rss/mw_technology",
+  "https://feeds.content.dowjones.io/public/rss/mw_healthcare",
+  "https://feeds.content.dowjones.io/public/rss/mw_energy"
+]
+

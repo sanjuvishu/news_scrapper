@@ -1,0 +1,17 @@
+{
+  "technology": ["technology", "tech", "software", "semiconductor", "chip", "chips", "ai", "artificial intelligence", "machine learning", "cloud", "saas", "microsoft", "apple", "google", "alphabet", "meta", "amazon", "nvidia", "amd", "intel", "oracle", "adobe", "cybersecurity", "data center", "infosys", "wipro", "hcl", "tcs", "techm"],
+  "banking_finance": ["bank", "banking", "finance", "financial", "fintech", "insurance", "credit", "loan", "capital markets", "jpmorgan", "goldman", "morgan stanley", "visa", "mastercard", "paypal", "treasury", "nifty bank", "hdfc bank", "icici bank", "sbi", "axis bank", "kotak", "rbi", "reserve bank", "nbfc", "mutual fund", "sebi"],
+  "healthcare": ["healthcare", "health care", "pharma", "pharmaceutical", "biotech", "medical", "hospital", "drug", "fda", "vaccine", "clinical trial", "sun pharma", "cipla", "dr reddy", "lupin", "aurobindo"],
+  "energy": ["energy", "oil", "gas", "natural gas", "crude", "brent", "wti", "renewable", "solar", "wind", "opec", "petroleum", "refinery", "ongc", "bpcl", "ioc", "reliance energy", "ntpc", "coal india", "adani green", "tata power"],
+  "consumer": ["consumer", "retail", "e-commerce", "ecommerce", "food", "beverage", "restaurant", "walmart", "target", "costco", "nike", "travel", "hul", "hindustan unilever", "itc", "nestle", "britannia", "dabur", "marico", "godrej", "titan", "trent"],
+  "industrial": ["industrial", "manufacturing", "factory", "machinery", "aerospace", "defense", "construction", "logistics", "shipping", "railroad", "larsen", "l&t", "bhel", "siemens", "abb", "cummins"],
+  "telecom": ["telecom", "telecommunications", "wireless", "broadband", "5g", "verizon", "at&t", "t-mobile", "jio", "airtel", "vodafone", "bharti", "bsnl"],
+  "real_estate": ["real estate", "reit", "property", "housing", "mortgage", "dlf", "godrej properties", "oberoi", "brigade"],
+  "materials": ["materials", "mining", "gold", "silver", "copper", "steel", "aluminum", "lithium", "uranium", "iron ore", "zinc", "tata steel", "jsw steel", "hindalco", "vedanta", "nmdc", "sail", "jindal", "nalco"],
+  "utilities": ["utilities", "power grid", "electric utility", "water utility", "powergrid", "power grid corp", "adani ports"],
+  "automotive": ["automotive", "auto", "vehicle", "ev", "electric vehicle", "ford", "gm", "tesla", "rivian", "lucid", "maruti", "tata motors", "mahindra", "hero motocorp", "bajaj auto", "ashok leyland", "eicher"],
+  "crypto": ["crypto", "cryptocurrency", "bitcoin", "ethereum", "token", "blockchain", "coinbase", "defi", "nft", "web3"],
+  "etf_index": ["etf", "index fund", "s&p 500", "nasdaq composite", "dow jones", "russell 2000", "nifty 50", "sensex", "nifty", "bse", "nse index"],
+  "general_market": ["stock market", "market news", "wall street", "equities", "stocks", "shares", "earnings", "ipo", "inflation", "economy", "fed", "federal reserve", "rate hike", "bull market", "bear market", "sensex", "nifty", "dalal street"]
+}
+
